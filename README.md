@@ -1,3 +1,3 @@
 # hello-world
 this is optional
-i will be working on github.
+i will be learning github.
